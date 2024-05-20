@@ -1,5 +1,5 @@
 ## 我是禾风
-- 🌹 I am a Java developer with two and a half years of practice 🐵.
+- 🌹 I am a Java developer 🐵.
 - 🏡 作品： <a href="https://github.com/User-wa/bi_backend" target="_blank">雀爱平台🔥</a> | <a href="https://github.com/User-wa/api-project" target="_blank">天穹接口平台✨
 
 ### ✨ 我的技能(my skills)   
