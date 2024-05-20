@@ -16,6 +16,23 @@
 
 <img align="" height="137px" src="https://github-readme-stats.vercel.app/api?username=User-wa&hide_title=true&hide_border=true&show_icons=true&include_all_commits=true&line_height=21&bg_color=0,EC6C6C,FFD479,FFFC79,73FA79&theme=graywhite&locale=cn" /><img align="" height="137px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lhccong&hide_title=true&hide_border=true&layout=compact&bg_color=0,73FA79,73FDFF,D783FF&theme=graywhite&locale=cn" />
 
+### 开发的项目(developed projects)
+
+- 业务项目(business projects)
+  - [雀爱平台🔥](https://github.com/User-wa/bi_backend)
+  - [天穹接口平台✨](https://github.com/User-wa/api-project)
+
+
+
+
+- 组件项目(component projects)
+  - [轻量级 RPC 框架🚀基于 Netty + Zookeeper](https://github.com/lhccong/CRPC)
+  - [轻量级 RPC 框架🚀基于 Vert.x + Etcd](https://github.com/lhccong/cong-rpc)
+  - [慢 SQL 分析工具🌱](https://github.com/lhccong/sql-slow-mirror)
+  - [小而全的第三方登录工具🧊](https://github.com/lhccong/OneAuth)
+  - [Switch-HTTP 一款控制网络库工具组件💭](https://github.com/lhccong/switch-http)
+  - [AsyncX 一款控制任意的多线程并行、串行、阻塞、依赖、回调的并行框架🛫](https://github.com/lhccong/AsyncX)
+
 ### 🎉 Get in touch
 
 [![GitHub](https://img.shields.io/badge/GitHub-grey?logo=github)](https://github.com/禾风)
