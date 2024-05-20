@@ -1,6 +1,6 @@
 ## 我是禾风
 - 🌹 I am a Java developer with two and a half years of practice 🐵.
-- 🏡 作品： <a href="https://github.com/lhccong/we-go" target="_blank">雀爱平台🔥</a> | <a href="https://github.com/lhccong/short-link-dog-backend" target="_blank">短链狗短链生成✨</a>| <a href="https://github.com/lhccong/sql-slow-mirror" target="_blank">SQL 慢查询分析器🔍</a> | <a href="https://github.com/lhccong/CRPC" target="_blank">轻量级RPC框架🚀</a> | <a href="https://github.com/lhccong/Coj-backend" target="_blank">COJ判题系统✅</a> 
+- 🏡 作品： <a href="https://github.com/User-wa/bi_backend" target="_blank">雀爱平台🔥</a> | <a href="https://github.com/User-wa/api-project" target="_blank">天穹接口平台✨
 
 ### ✨ 我的技能(my skills)   
 
